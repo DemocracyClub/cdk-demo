@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 "aws-cdk.core" = "*"
+django = "*"
 
 [dev-packages]
 
