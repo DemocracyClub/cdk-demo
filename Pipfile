@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 "aws-cdk.core" = "*"
 django = "*"
+aws-sam-cli = "*"
+aws-wsgi = "*"
 
 [dev-packages]
 
